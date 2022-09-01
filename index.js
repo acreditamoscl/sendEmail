@@ -17,12 +17,12 @@ function main(obj) {
         //FreeMail
         //wihetkheeqvhytza
         auth: {
-          user: "loremplayofficial@gmail.com",
-          pass: "wihetkheeqvhytza",
+          user: "acreditamos.cl@gmail.com",
+          pass: "iukwznfvcmxddtav",
         }
       });
     let message = {
-      from: "loremplayofficial@gmail.com",
+      from: "acreditamos.cl@gmail.com",
       ...obj
     };
     // send mail with defined transport object
