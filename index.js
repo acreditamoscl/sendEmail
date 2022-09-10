@@ -18,7 +18,7 @@ function main(obj) {
         //wihetkheeqvhytza
         auth: {
           user: "acreditamos.cl@gmail.com",
-          pass: "iukwznfvcmxddtav",
+          pass: "hermanito123",
         }
       });
     let message = {
